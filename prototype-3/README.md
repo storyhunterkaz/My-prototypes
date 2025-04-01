@@ -1,2 +1,2 @@
-Prototype 1
+Prototype 3
 Argentcy is an AI-powered platform deploying autonomous agents to revolutionize Web3 influence. Built on Scroll zkEVM, it automates brand growth, engineers viral narratives, and accelerates speed, influence, and dominance. By eliminating human hesitation, Argentcy’s AI agents drive memetic power, market impact, and brand amplification—fusing AI, crypto, and consumer strategy to redefine digital influence in the decentralized era. AI doesn’t predict the future; it builds it.
