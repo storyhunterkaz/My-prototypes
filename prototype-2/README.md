@@ -1,0 +1,2 @@
+# Prototype 1
+GenzsCave is a next-generation social forum powered by emotional intelligence, AI, and blockchain. It transforms conversations into dynamic experiences, where AI agents analyze emotions, enhance discussions, and guide users toward growth. With social prompting, emotional upvoting, and on-chain asset creation, GenzsCave is more than a platform—it’s an ecosystem where thoughts evolve into digital assets, stories become currency, and emotional depth fuels a new paradigm of online interaction.
