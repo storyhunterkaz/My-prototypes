@@ -1,0 +1,2 @@
+# Prototype 1: Bravedbalajis
+BravedBalajis is an AI-powered sovereign learning system designed to revolutionize education, coordination, and knowledge acquisition. It fuses AI, crypto, and network state principles to create a self-sovereign learning experience, where individuals master skills, earn verifiable credentials, and build real-world influence. More than an AI agent, BravedBalajis is a movement for decentralized intelligence, shaping the future of network-driven societies and digital autonomy.
